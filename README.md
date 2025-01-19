@@ -11,3 +11,5 @@ A simple *Udemy clone* created using *HTML, **CSS, and **CSS Flexbox* to replica
 This project serves as a foundation for understanding CSS Flexbox and web design principles while practicing hands-on implementation.  
 
 Feel free to customize it further!
+
+Thank you for visiting my Udemy Clone website!
