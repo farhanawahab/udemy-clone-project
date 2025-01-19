@@ -1,6 +1,6 @@
 ## Udemy Clone  
 
-A simple *Udemy clone* created using *HTML, **CSS, and **CSS Flexbox* to replicate the core layout and design of the Udemy website. This project showcases responsive web design techniques and a clean, user-friendly interface.  
+A simple *Udemy clone* created using HTML, CSS, and CSS Flexbox to replicate the core layout and design of the Udemy website. This project showcases responsive web design techniques and a clean, user-friendly interface.  
 
 ## Features  
 - *Responsive Layout*: Built with CSS Flexbox for flexible and adaptive design.  
